@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mike Allan Njuguna  
+# 👋 Hi, I’m Mike Allan  
 
 🎓 **Student at JKUAT** – pursuing a **BSc in Business Computing**  
 💻 **Software Developer** at **IWORLDAFRIC**  
