@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mike Allan  
 
-🎓 **Student at JKUAT** – pursuing a **BSc in Business Computing**  
+🎓 **Student at JKUAT** – pursued a **BSc in Business Computing**  
 💻 **Software Developer** at **IWORLDAFRIC**  
 🤖 Experienced with **AI-assisted coding platforms** (e.g., Cursor) and worked as an **Agentic Prompt Engineer** with **Turing**  
 📧 Reach me: **[njugunamikeallan@gmail.com](mailto:njugunamikeallan@gmail.com)**  
