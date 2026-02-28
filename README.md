@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Mike Allan  
 
 🎓 **Student at JKUAT** – pursuing a **BSc in Business Computing**  
-💻 **Software Developer** at **IWORLDAFRIC**  
+💻 **Software Developer** at **IWORLDAFRIC**  and **Lead developer** at **Enkani**
 🤖 Experienced with **AI-assisted coding platforms** (e.g., Cursor) and worked as an **Agentic Prompt Engineer** with **Turing**  
 📧 Reach me: **[njugunamikeallan@gmail.com](mailto:njugunamikeallan@gmail.com)**  
 
 ---
 
-## 🚀 Current Project  
+## 🚀 Projects  
 ### 📡 **Modern ISP Customer Management Dashboard**  
 A full-stack application for managing ISP customers with role-based access control, dark theme design, and real-time data handling.  
 
@@ -41,7 +41,32 @@ A full-stack application for managing ISP customers with role-based access contr
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white)  
 
 ---
+**ENKANI 🌱**
 
+**QR-Based Waste Tracking & ESG Analytics Platform**
+
+ENKANI is a Progressive Web App (PWA) that incentivizes waste segregation through a Scan → Survey → Earn model. Users scan uniquely coded bins, log waste types, complete short ESG surveys, and earn digital reward points.
+
+🔧 Built With
+![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
+
+
+**⚙️ Key Features**
+
+QR-based bin tracking
+Real-time wallet & reward system
+Fraud-aware logging logic
+Admin ESG dashboard (impact metrics & analytics)
+AI-ready backend architecture
+
+📊 Purpose
+
+Designed as a scalable environmental data infrastructure to support circular economy pilots and ESG reporting.
 ## 💡 Skills  
 - 🖥️ Full-stack Web Development  
 - 🗄️ Database Design & Management  
