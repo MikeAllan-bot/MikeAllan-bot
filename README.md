@@ -2,7 +2,7 @@
 
 🎓 **Student at JKUAT** – pursuing a **BSc in Business Computing**  
 💻 **Software Developer** at **IWORLDAFRIC**  and **Lead developer** at **Enkani**
-🤖 Experienced with **AI-assisted coding platforms** (e.g., Cursor) and worked as an **Agentic Prompt Engineer** with **Turing**  
+🤖 Experienced with **Agentic Engineering **  and worked as an **Agentic Prompt Engineer** with **Turing**  
 📧 Reach me: **[njugunamikeallan@gmail.com](mailto:njugunamikeallan@gmail.com)**  
 
 ---
