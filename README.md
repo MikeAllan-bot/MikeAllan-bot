@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mike Allan  
 
-🎓 **Student at JKUAT** – pursuing a **BSc in Business Computing**  
+🎓 **Student at JKUAT** – pursuing a **BSc in Computing**  
 💻 **Software Quality Assurance Analyst** at **IWORLDAFRIC**  and **Lead developer** at **Enkani**
 🤖 Experienced with **Agentic Engineering **  and worked as an **Agentic Prompt Engineer** with **Turing**  
 📧 Reach me: **[njugunamikeallan@gmail.com](mailto:njugunamikeallan@gmail.com)**  
